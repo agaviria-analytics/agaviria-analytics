@@ -28,11 +28,9 @@ Exportación de MySQL a Excel con modelo estrella y dashboard
 [Repositorio](https://github.com/agaviria-analytics/analisis-ventas-powerbi)  
 Visualización de ventas con medidas DAX y diseño profesional de dashboard en Power BI.
 
-💡 **Análisis de Abastecimientos**
-Repositorio  
-Dashboard de abastecimientos con narrativa automática en Power BI y limpieza de datos con Python.  
-🔗 [Repositorio](https://github.com/agaviria-analytics/analisis-abastecimientos)
-
+### 💡 **Análisis de Abastecimientos**
+[Repositorio](https://github.com/agaviria-analytics/analisis-abastecimientos)
+Dashboard de abastecimientos con narrativa automática en Power BI y limpieza de datos con Python.
 
 ## 📬 Contacto
 
