@@ -31,7 +31,7 @@ Visualización de ventas con medidas DAX y diseño profesional de dashboard en P
 💡 **Análisis de Abastecimientos**
 Repositorio  
 Dashboard de abastecimientos con narrativa automática en Power BI y limpieza de datos con Python.  
-🔗 [Repositorio completo](https://github.com/agaviria-analytics/analisis-abastecimientos)
+🔗 [Repositorio](https://github.com/agaviria-analytics/analisis-abastecimientos)
 
 
 ## 📬 Contacto
