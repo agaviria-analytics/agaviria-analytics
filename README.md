@@ -32,6 +32,13 @@ Visualización de ventas con medidas DAX y diseño profesional de dashboard en P
 [Repositorio](https://github.com/agaviria-analytics/analisis-abastecimientos)  
 Dashboard de abastecimientos con narrativa automática en Power BI y limpieza de datos con Python.
 
+### 🛠️ **Ventas SQL Server + Power BI**  
+[Repositorio](https://github.com/agaviria-analytics/ventas_sqlserver_bi)  
+Conexión directa a SQL Server + modelo estrella + dashboard en Power BI.
+
+### 🗂️ **Reporte Automatizado de Ventas (Python + Excel + Gráficas)**  
+[Repositorio](https://github.com/agaviria-analytics/ventas-automatizadas)  
+Script en Python para análisis automatizado, generación de Excel y gráficos de barras y torta.
 
 ## 📬 Contacto
 
