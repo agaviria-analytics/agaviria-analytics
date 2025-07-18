@@ -40,6 +40,11 @@ Conexión directa a SQL Server + modelo estrella + dashboard en Power BI.
 [Repositorio](https://github.com/agaviria-analytics/ventas-automatizadas)  
 Script en Python para análisis automatizado, generación de Excel y gráficos de barras y torta.
 
+### 🛢️ **Consultas SQL de Abastecimiento**  
+[Repositorio](https://github.com/agaviria-analytics/sql-abastecimiento)  
+Diseño de base de datos, consultas JOIN, alertas SQL y cálculo del stock actual usando SQL Server.
+
+
 ## 📬 Contacto
 
 - ✉️ [agaviria1408@gmail.com]
