@@ -44,6 +44,9 @@ Script en Python para análisis automatizado, generación de Excel y gráficos d
 [Repositorio](https://github.com/agaviria-analytics/sql_consultas_join_abastecimiento)  
 Diseño de base de datos, consultas JOIN, alertas SQL y cálculo del stock actual usando SQL Server.
 
+### 🧘 **Análisis Clima Laboral**  
+[Repositorio](https://github.com/agaviria-analytics/analisis_bienestar_empleados)
+Dashboard en Power BI con narrativa DAX para visualizar bienestar, estrés y satisfacción por área y género.
 
 ## 📬 Contacto
 
