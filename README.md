@@ -48,7 +48,7 @@ Diseño de base de datos, consultas JOIN, alertas SQL y cálculo del stock actua
 [Repositorio](https://github.com/agaviria-analytics/analisis_bienestar_empleados)
 Dashboard en Power BI con narrativa DAX para visualizar bienestar, estrés y satisfacción por área y género.
 
-### 🧘 **Dashboard de Ventas en Excel**  
+### 📗 **Dashboard de Ventas en Excel**  
 [Repositorio](https://github.com/agaviria-analytics/-Dashboard-de-Ventas-en-Excel)
 Informe interactivo con segmentadores, KPIs, gráficos dinámicos y diseño profesional en Excel.
 
