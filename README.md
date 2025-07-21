@@ -1,5 +1,8 @@
 # 👋 Hola, soy Héctor Alejandro
 
+📊 Analista de Datos | Python • SQL • Power BI  
+🚀 Transformo datos en decisiones a través de dashboards e insights automatizados
+
 🎯 Soy analista de datos con base en logística y conocimientos en:
 
 - Python (pandas, openpyxl)
