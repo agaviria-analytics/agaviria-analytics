@@ -1,21 +1,23 @@
 # 👋 Hola, soy Héctor Alejandro
 
-📊 Analista de Datos | Python • SQL • Power BI  
-🚀 Transformo datos en decisiones a través de dashboards e insights automatizados
+📊 **Analista de Datos | Python • SQL • Power BI**  
+🔍 Transformo datos en decisiones a través de dashboards e insights automatizados
 
-🎯 Soy analista de datos con base en logística y conocimientos en:
+💼 Soy analista de datos con base en logística y conocimientos en:
 
 - Python (pandas, openpyxl)
 - SQL (MySQL)
 - Power BI (DAX, visualización)
-- Excel avanzado(tablas dinámicas, automatización)
+- Excel avanzado (tablas dinámicas, automatización)
 - GitHub para gestión de proyectos
 
-📦 Experiencia en análisis de datos de ventas, limpieza automatizada y visualización de KPIs.
+📈 Experiencia en análisis de datos de ventas, limpieza automatizada y visualización de KPIs.
 
-💡 En transición desde roles operativos/logísticos hacia inteligencia de datos aplicada al negocio.
+🔄 En transición desde roles operativos/logísticos hacia inteligencia de datos aplicada al negocio.
 
-📊 Este portafolio contiene mis proyectos más relevantes:
+🗂️ Este portafolio contiene mis proyectos más relevantes:
+
+
 
 ## 🚀 Proyectos
 
