@@ -61,7 +61,7 @@ Informe interactivo con segmentadores, KPIs, gráficos dinámicos y diseño prof
 [Repositorio](https://github.com/agaviria-analytics/versionado-limpieza-datos-python)
 Simulación de flujo Git real con ramas, commits, rebase, conflicto y Pull Request profesional documentado en README.md.
 
-### 🛢️ **Fundamentos de SQL – Proyecto de Práctica**
+### 🛢️ **Fundamentos de SQL –Práctica intensiva de SQL Server en 7 días**
 [Repositorio](https://github.com/agaviria-analytics/sql-fundamentos-7dias)
 Práctica intensiva de SQL Server en 7 días: consultas, joins, transacciones, subconsultas, agrupaciones y respaldo de BD. Proyecto funcional validado en SSMS.
 
