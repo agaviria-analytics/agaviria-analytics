@@ -53,7 +53,7 @@ Dashboard en Power BI con narrativa DAX para visualizar bienestar, estrés y sat
 Informe interactivo con segmentadores, KPIs, gráficos dinámicos y diseño profesional en Excel.
 
 ### 🐙 **Control de Versiones con Git & GitHub**
-[Repositorio](https://github.com/agaviria-projects/versionado-limpieza-datos-python)
+[Repositorio](https://github.com/agaviria-analytics/versionado-limpieza-datos-python)
 Simulación de flujo Git real con ramas, commits, rebase, conflicto y Pull Request profesional documentado en README.md.
 
 
