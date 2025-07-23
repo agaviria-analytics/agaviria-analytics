@@ -65,6 +65,9 @@ Simulación de flujo Git real con ramas, commits, rebase, conflicto y Pull Reque
 [Repositorio](https://github.com/agaviria-analytics/sql-fundamentos-7dias)
 Práctica intensiva de SQL Server en 7 días: consultas, joins, transacciones, subconsultas, agrupaciones y respaldo de BD. Proyecto funcional validado en SSMS.
 
+### 📊 ** Power BI – Medidas-Columnas-Dashboards**
+[Repositorio](https://github.com/agaviria-analytics/powerbi-habilidades-analista-de-datos)
+Práctica Visualización profesional conectada a SQL Server: modelo estrella, medidas DAX, tabla calendario y narrativa visual.
 
 ## 📬 Contacto
 
