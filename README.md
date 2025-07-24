@@ -69,6 +69,11 @@ Práctica intensiva de SQL Server en 7 días: consultas, joins, transacciones, s
 [Repositorio](https://github.com/agaviria-analytics/powerbi-habilidades-analista-de-datos)
 Práctica Visualización profesional conectada a SQL Server: modelo estrella, medidas DAX, tabla calendario y narrativa visual.
 
+### 🐍 **Curso Intensivo Python – 7 días**
+[Repositorio](https://github.com/agaviria-analytics/curso-intensivo-python-7-dias)
+Aprendizaje estructurado en 7 días para dominar los fundamentos de Python con ejemplos y mini proyecto final.
+
+
 ## 📬 Contacto
 
 - ✉️ [agaviria1408@gmail.com]
