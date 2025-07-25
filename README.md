@@ -73,6 +73,10 @@ Práctica Visualización profesional conectada a SQL Server: modelo estrella, me
 [Repositorio](https://github.com/agaviria-analytics/curso-intensivo-python-7-dias)
 Aprendizaje estructurado en 7 días para dominar los fundamentos de Python con ejemplos y mini proyecto final.
 
+### 📗 **Dashboard en excel de una empresa de autopartes**
+[Repositorio](https://github.com/agaviria-analytics/dashboard_excel_autopartes)
+Dashboard en Excel con Power Query y Power Pivot. Carga optimizada desde archivos SAP, modelo estrella, medidas DAX y visualización profesional.
+
 
 ## 📬 Contacto
 
