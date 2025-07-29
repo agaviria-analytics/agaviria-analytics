@@ -77,9 +77,13 @@ Aprendizaje estructurado en 7 días para dominar los fundamentos de Python con e
 [Repositorio](https://github.com/agaviria-analytics/dashboard_excel_autopartes)
 Dashboard en Excel con Power Query y Power Pivot. Carga optimizada desde archivos SAP, modelo estrella, medidas DAX y visualización profesional.
 
+### 🐍 ** Limpieza datos excel con python**
+[Repositorio](https://github.com/agaviria-analytics/limpieza-datos-excel-python)
+Proyecto empresarial completo que integra SQL Server, Python, Excel y Power BI. Analiza ventas, automatiza cargas, genera visualizaciones y aplica buenas prácticas.
+
 ### 🧩 ** SQL + Python + Excel + Power BI**
 [Repositorio](https://github.com/agaviria-analytics/analisis-integrado-clientes-ventas)
-Proyecto empresarial completo que integra SQL Server, Python, Excel y Power BI. Analiza ventas, automatiza cargas, genera visualizaciones y aplica buenas prácticas.
+Práctica de limpieza y análisis de datos con Python. Incluye manejo avanzado de texto, fechas, exportación y visualización con matplotlib. Ideal como ejemplo de flujo completo de analista de datos.
 
 
 ## 📬 Contacto
