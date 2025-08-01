@@ -85,6 +85,10 @@ Proyecto empresarial completo que integra SQL Server, Python, Excel y Power BI. 
 [Repositorio](https://github.com/agaviria-analytics/analisis-integrado-clientes-ventas)
 Práctica de limpieza y análisis de datos con Python. Incluye manejo avanzado de texto, fechas, exportación y visualización con matplotlib. Ideal como ejemplo de flujo completo de analista de datos.
 
+### 🐍 ** Power BI – Dashboard de Entregas**
+[Repositorio](https://github.com/agaviria-analytics/dashboard-entregas-logistica)
+Dashboard profesional desarrollado en Power BI para analizar entregas por conductor, tipo de vehículo y kilometraje. Incluye segmentadores personalizados, medidas DAX y diseño listo para publicación.
+
 
 ## 📬 Contacto
 
