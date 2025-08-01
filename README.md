@@ -87,7 +87,7 @@ Práctica de limpieza y análisis de datos con Python. Incluye manejo avanzado d
 
 ### 📊 ** Power BI – Dashboard de Entregas**
 [Repositorio](https://github.com/agaviria-analytics/dashboard-entregas-logistica)
-Dashboard profesional desarrollado en Power BI para analizar entregas por conductor, tipo de vehículo y kilometraje. Incluye segmentadores personalizados, medidas DAX y diseño listo para publicación.
+Dashboard profesional desarrollado en Power BI para analizar entregas por conductor, tipo de vehículo y kilometraje. Incluye segmentadores personalizados, medidas DAX.
 
 
 ## 📬 Contacto
