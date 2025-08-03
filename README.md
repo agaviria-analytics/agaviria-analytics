@@ -90,6 +90,11 @@ Práctica de limpieza y análisis de datos con Python. Incluye manejo avanzado d
 Dashboard profesional desarrollado en Power BI para analizar entregas por conductor, tipo de vehículo y kilometraje. Incluye segmentadores personalizados y medidas DAX.
 
 
+### 📊 ** Python + Power BI – Dashboard Ventas de Tecnología**
+[Repositorio](https://github.com/agaviria-analytics/limpieza-ventas-tecnologia-python)
+Dashboard desarrollado con Python y Power BI para analizar ventas de tecnología. Incluye limpieza automática de datos y visualización interactiva.
+
+
 ## 📬 Contacto
 
 - ✉️ [agaviria1408@gmail.com]
