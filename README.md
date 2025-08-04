@@ -21,6 +21,10 @@
 
 ## 🚀 Proyectos
 
+### 📊 **Powerbi Dashboard appol**
+[Repositorio](https://github.com/agaviria-analytics/powerbi-dashboard-appol)
+Proyecto Power BI donde se analiza utilidad y margen por región y producto. Incluye limpieza con Power Query, modelado de datos, medidas DAX (implícitas y explícitas) y visualizaciones interactivas. Dashboard final publicado para toma de decisiones.
+
 ### 🔹 Análisis de Ventas DITO
 [Repositorio](https://github.com/agaviria-analytics/analisis-ventas-DITO)  
 Automatización con Python + visualización en Power BI
@@ -88,7 +92,6 @@ Práctica de limpieza y análisis de datos con Python. Incluye manejo avanzado d
 ### 📊 ** Power BI – Dashboard de Entregas**
 [Repositorio](https://github.com/agaviria-analytics/dashboard-entregas-logistica)
 Dashboard profesional desarrollado en Power BI para analizar entregas por conductor, tipo de vehículo y kilometraje. Incluye segmentadores personalizados y medidas DAX.
-
 
 ### 🐍 ** Python + Power BI – Dashboard Ventas de Tecnología**
 [Repositorio](https://github.com/agaviria-analytics/limpieza-ventas-tecnologia-python)
