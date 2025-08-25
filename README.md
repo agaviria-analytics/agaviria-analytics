@@ -101,6 +101,10 @@ Dashboard desarrollado con Python y Power BI para analizar ventas de tecnología
 [Repositorio](https://github.com/agaviria-analytics/automatizacion-archivos-excel-glob-powerbi)
 Proyecto completo: limpieza de múltiples archivos Excel con glob y visualización en Power BI.
 
+### 🧩 ** Integración de SQL Server, Python y Power BI en un pipeline empresarial**
+[Repositorio](https://github.com/agaviria-analytics/data-pipeline-sql-python-powerbi)
+Proyecto integrador que simula un flujo empresarial completo: creación de base de datos en **SQL Server**, extracción y limpieza de datos con **Python**, exportación a Excel y construcción de modelo estrella, DAX y dashboard en **Power BI**.  Un pipeline de analítica de datos aplicable a entornos reales.
+
 
 ## 📬 Contacto
 
